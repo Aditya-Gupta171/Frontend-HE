@@ -1,0 +1,28 @@
+/* Authenticated Page Styling */
+.auth-page {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .auth-title {
+    font-size: 2rem;
+    color: #fca311;
+  }
+  
+  .auth-content {
+    margin: 20px 0;
+    font-size: 1.2rem;
+    color: #ffffff;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .auth-title {
+      font-size: 1.5rem;
+    }
+  
+    .auth-content {
+      font-size: 1rem;
+    }
+  }
+  
